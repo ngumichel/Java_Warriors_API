@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_Warriors_API.iml" filepath="$PROJECT_DIR$/.idea/Java_Warriors_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/warriors/warriors.iml" filepath="$PROJECT_DIR$/warriors/warriors.iml" />
+    </modules>
+  </component>
+</project>
